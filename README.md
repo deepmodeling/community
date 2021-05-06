@@ -29,7 +29,7 @@ If you are a programmer who loves science and is attracted by the future scienti
 
 If you are a hardcore developer familiar with topics such as electronic structure calculations, molecular dynamics, and finite element methods, the DeepModeling community will be your place to showcase your talents. The addition of machine learning components requires us to rethink about architecture design, each specific implementation for the tasks mentioned above and high-performance optimization. You will become important bridges that connect other developers, contributors, and users in different areas.
 
-If you have only used some basic scientific softwares and have worked on some post-processing scripts, the DeepModeling community also needs you. Try to ask questions and communicate on github/gitee and other communication platforms, try to give opinions, and try to fork, commit, pr... Your little by little contribution will make the DeepModeling community better and better, and the DeepModeling community will be very grateful for such contributions.
+If you have only used some basic scientific software and have worked on some post-processing scripts, the DeepModeling community also needs you. Try to ask questions and communicate on github/gitee and other communication platforms, try to give opinions, and try to fork, commit, pr... Your little by little contribution will make the DeepModeling community better and better, and the DeepModeling community will be very grateful for such contributions.
 
 Even if you are just a bystander, if you support the concept of the DeepModeling community, your recognition and dissemination will also be a great encouragement and support for the DeepModeling community.
 
