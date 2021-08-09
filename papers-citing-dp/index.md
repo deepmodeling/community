@@ -7,6 +7,20 @@ In bibtex format
 - [Bibtex info with abstract of 239 articles](#with-abstract.md).
 - [Bibtex info without abstract of the rest 143 articles](#no-abstract.md)
 
+## Basic distribution data from https://webofknowledge.org. 
+
+[Distribution of research fields](researchfield-distribution.jpg)
+[Distribution of countries](countries-distribution.jpg)
+[Distribution of fundings](fundings-distribution.jpg)
+
+## Basic collaboration analysis
+
+[PPT display of the results](collaboration-centers.pptx)
+
+## Keyword co-occurrence analysis
+
+Task to be done! Should you be interested, raise an issue.
+
 
 <div id="refer-anchor-1"></div>
 
