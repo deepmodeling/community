@@ -21,14 +21,6 @@
     volume = {125}
 }
 
-@article{Andradea,
-    abstract = {TiO2 is a widely used photocatalyst in science and technology and its interface with water is important in fields ranging from geochemistry to biomedicine. Yet, it is still unclear whether water adsorbs in molecular or dissociated form on TiO2 even for the case of well-defined crystalline surfaces. To address this issue, we simulated the TiO2–water interface using molecular dynamics with an ab initio-based deep neural network potential. Our simulations show a dynamical equilibrium of molecular and dissociative adsorption of water on TiO2. Water dissociates through a solvent-assisted concerted proton transfer to form a pair of short-lived hydroxyl groups on the TiO2 surface. Molecular adsorption of water is ΔF = 8.0 ± 0.9 kJ mol−1 lower in free energy than the dissociative adsorption, giving rise to a 5.6 ± 0.5\% equilibrium water dissociation fraction at room temperature. Due to the relevance of surface hydroxyl groups to the surface chemistry of TiO2, our model might be key to understanding phenomena ranging from surface functionalization to photocatalytic mechanisms.},
-    author = {Andrade, MFC and Ko, HY and Zhang, L and Car, R},
-    journaltitle = {pubs.rsc.org},
-    title = {Free Energy of Proton Transfer at the Water–{{TiO}} 2 Interface from Ab Initio Deep Potential Molecular Dynamics},
-    url = {https://pubs.rsc.org/en/content/articlehtml/2020/sc/c9sc05116c}
-}
-
 @article{andradeFreeEnergyProton2020,
     abstract = {TiO2 is a widely used photocatalyst in science and technology and its interface with water is important in fields ranging from geochemistry to biomedicine. Yet, it is still unclear whether water adsorbs in molecular or dissociated form on TiO2 even for the case of well-defined crystalline surfaces. To address this issue, we simulated the TiO2-water interface using molecular dynamics with an ab initio-based deep neural network potential. Our simulations show a dynamical equilibrium of molecular and dissociative adsorption of water on TiO2. Water dissociates through a solvent-assisted concerted proton transfer to form a pair of short-lived hydroxyl groups on the TiO2 surface. Molecular adsorption of water is Delta F = 8.0 +/- 0.9 kJ mol(-1) lower in free energy than the dissociative adsorption, giving rise to a 5.6 +/- 0.5\% equilibrium water dissociation fraction at room temperature. Due to the relevance of surface hydroxyl groups to the surface chemistry of TiO2, our model might be key to understanding phenomena ranging from surface functionalization to photocatalytic mechanisms.},
     annotation = {WOS:000519240000031},
@@ -47,20 +39,6 @@
     url = {https://www.webofscience.com/wos/alldb/summary/44a3404b-9775-4cfb-8e8f-3f1fab40830f-035e7f8d/date-descending/4},
     urldate = {2021-08-06},
     volume = {11}
-}
-
-@article{Chen2020b,
-    abstract = {We introduce the Deep Post-Hartree-Fock (DeePHF) method, a machine learning-based scheme for constructing accurate and transferable models for the ground-state energy of electronic structure problems. DeePHF predicts the energy difference between results of highly accurate models such as the coupled cluster method and low accuracy models such as the the Hartree-Fock (HF) method, using the ground-state electronic orbitals as the input. It preserves all the symmetries of the original high accuracy model. The added computational cost is less than that of the reference HF or DFT and scales linearly with respect to system size. We examine the performance of DeePHF on organic molecular systems using publicly available datasets and obtain the state-of-art performance, particularly on large datasets.},
-    archiveprefix = {arXiv},
-    arxivid = {2005.00169v2},
-    author = {Chen, Y and Zhang, L and Wang, H and of Physical, WE - The Journal and 2020, undefined},
-    date = {2020},
-    eprint = {2005.00169v2},
-    eprinttype = {arxiv},
-    journaltitle = {ACS Publications},
-    options = {useprefix=true},
-    title = {Ground State Energy Functional with {{Hartree}}–{{Fock}} Efficiency and Chemical Accuracy},
-    url = {https://pubs.acs.org/doi/abs/10.1021/acs.jpca.0c03886}
 }
 
 @article{Chenb,
@@ -141,20 +119,6 @@
     url = {https://www.webofscience.com/wos/alldb/summary/44a3404b-9775-4cfb-8e8f-3f1fab40830f-035e7f8d/date-descending/3},
     urldate = {2021-08-06},
     volume = {124}
-}
-
-@article{gartnerSignaturesLiquidLiquid2020,
-    abstract = {The possible existence of a metastable liquid-liquid transition (LLT) and a corresponding liquid-liquid critical point (LLCP) in supercooled liquid water remains a topic of much debate. An LLT has been rigorously proved in three empirically parametrized molecular models of water, and evidence consistent with an LLT has been reported for several other such models. In contrast, experimental proof of this phenomenon has been elusive due to rapid ice nucleation under deeply supercooled conditions. In this work, we combined density functional theory (DFT), machine learning, and molecular simulations to shed additional light on the possible existence of an LLT in water. We trained a deep neural network (DNN) model to represent the ab initio potential energy surface of water from DFT calculations using the Strongly Constrained and Appropriately Normed (SCAN) functional. We then used advanced sampling simulations in the multithermal-multibaric ensemble to efficiently explore the thermophysical properties of the DNN model. The simulation results are consistent with the existence of an LLCP, although they do not constitute a rigorous proof thereof. We fit the simulation data to a two-state equation of state to provide an estimate of the LLCP's location. These combined results-obtained from a purely first-principles approach with no empirical parameters-are strongly suggestive of the existence of an LLT, bolstering the hypothesis that water can separate into two distinct liquid forms. water | liquid-liquid transition | molecular simulations | machine learning W ater is ubiquitous in both the physical sciences and everyday life; as such, there is a very large body of literature characterizing its physical properties (1). This research has revealed that water exhibits a striking set of anomalies relative to most other liquids (2), including the fact that the liquid freezes into a less-dense solid phase at ambient and moderate pressures; liquid water's observed density maximum; and the sharp increases in compressibility, heat capacity, and the magnitude of the thermal expansion coefficient of liquid water upon cooling (2-4). Several competing theories exist that provide thermody-namically consistent descriptions of these anomalies (2, 4), including the liquid-liquid transition (LLT) hypothesis (5), the stability-limit conjecture (6), and the singularity-free scenario (7). Much of the behavior discussed in these theories occurs under supercooled conditions (i.e., below the melting temperature of ice); experimental data in this region are challenging to obtain due to rapid crystallization (4, 8), which renders the liquid state short lived (9). Because of these challenges, the available experimental work has been fruitfully augmented by a large number of computational and theoretical studies aimed at illuminating the key phenomena and weighing the relative merits of these scenarios (2, 4, 8, 10-12). For example, recent simulation work illustrated that the stability-limit conjecture likely is not compatible with the shape of the thermodynamic extrema exhibited by the popular TIP4P/2005 water model (13) but that the LLT and singularity-free scenarios could still be potential candidates (14). According to the LLT hypothesis (5, 10), under strongly supercooled conditions and high pressures, water undergoes a first-order phase separation into high-density liquid (HDL) and low-density liquid (LDL) states, which are metastable with respect to crystalline ice. In the pressure-temperature plane, this line of liquid-liquid coexistence terminates in a metastable liquid-liquid critical point (LLCP). Emanating from the LLCP toward higher temperatures and lower pressures is the so-called Widom line (11, 15), which is a locus of maximum correlation length in the fluid; maxima in other properties such as isothermal compressibility and constant-pressure heat capacity converge with the Widom line near the LLCP. There is some recent experimental evidence for a maximum in the isothermal com-pressibility upon cooling liquid water at ambient pressure (16). This result has elicited debate (17, 18), and analogous experiments at higher pressure have not been done to date. In simulations, small system sizes serve to suppress homogenous nucleation of ice, and the timescales for nucleation and structural relaxation tend to be well separated in molecular models of water. These factors enable computational study of liquid water in the strongly supercooled regime across the full range of relevant temperatures and pressures. Rigorous evidence for the LLT has been obtained for three classical molecular models for water with simple pairwise interaction potentials: ST2 (19-24), TIP4P/2005 (13), and TIP4P/Ice (25, 26). There are also numerous studies presenting evidence consistent with an LLT but without a rigorous Significance Water is central across much of the physical and biological sciences and exhibits physical properties that are qualitatively distinct from those of most other liquids. Understanding the microscopic basis of water's peculiar properties remains an active area of research. One intriguing hypothesis is that liquid water can separate into metastable high-and low-density liquid phases at low temperatures and high pressures, and the existence of this liquid-liquid transition could explain many of water's anomalous properties. We used state-of-the-art approaches in computational quantum chemistry, statistical mechanics , and machine learning and obtained evidence consistent with a liquid-liquid transition, supporting the argument for the existence of this phenomenon in real water.},
-    author = {Gartner, TE and Zhang, L and Piaggi, PM and 2020, undefined},
-    date = {2020},
-    doi = {10.1073/pnas.2015440117/-/DCSupplemental},
-    journaltitle = {National Acad Sciences},
-    number = {42},
-    pages = {26040--26046},
-    publisher = {{PNAS}},
-    title = {Signatures of a Liquid–Liquid Transition in an Ab Initio Deep Neural Network Model for Water},
-    url = {https://www.pnas.org/content/117/42/26040.short},
-    volume = {117}
 }
 
 @article{gartnerSignaturesLiquidliquidTransition2020,
@@ -467,7 +431,7 @@
     shortjournal = {Comput. Phys. Commun.},
     shorttitle = {{{DeePMD}}-Kit},
     title = {{{DeePMD}}-Kit: {{A}} Deep Learning Package for Many-Body Potential Energy Representation and Molecular Dynamics},
-    url = {https://www.webofscience.com/wos/alldb/summary/ffcce553-2513-49c3-88af-d36432b825f2-03389e3a/times-cited-descending/1},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S0010465518300882},
     urldate = {2021-08-05},
     volume = {228}
 }
@@ -724,7 +688,7 @@
     shortjournal = {Comput. Phys. Commun.},
     shorttitle = {{{DP}}-{{GEN}}},
     title = {{{DP}}-{{GEN}}: {{A}} Concurrent Learning Platform for the Generation of Reliable Deep Learning Based Potential Energy Models},
-    url = {https://www.webofscience.com/wos/alldb/summary/44a3404b-9775-4cfb-8e8f-3f1fab40830f-035e7f8d/date-descending/3},
+    url = {https://www.sciencedirect.com/science/article/abs/pii/S001046552030045X},
     urldate = {2021-08-06},
     volume = {253}
 }
@@ -837,5 +801,4 @@
     url = {https://aip.scitation.org/doi/abs/10.1063/5.0023265},
     volume = {27}
 }
-
 
