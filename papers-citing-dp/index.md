@@ -3,7 +3,7 @@
 In bibtex format
 
 - [Reviews](#reviews.md).
-- [Co-authored by E Weinan, or Zhang Linfeng, or WangHan](#Co-authored.md).
+- [Co-authored by Weinan E, or Linfeng Zhang, or Han Wang](#Co-authored.md).
 - [Bibtex info with abstract of 239 articles](#with-abstract.md).
 - [Bibtex info without abstract of the rest 143 articles](#no-abstract.md)
 
@@ -37,5 +37,4 @@ Task to be done! Should you be interested, raise an issue.
 <div id="refer-anchor-4"></div>
 
 - [4] [DP-GEN: A concurrent learning platform for the generation of reliable deep learning based potential energy models](https://www.sciencedirect.com/science/article/abs/pii/S001046552030045X)
-
 
