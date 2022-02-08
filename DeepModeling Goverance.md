@@ -5,12 +5,12 @@ DeepModeling Goverance
 
 ## Governing Board(GB)：
 
-**Governing Board (GB)**  is responsible for the fundamental rules of the DeepModeling community. The Governing Board does not make technical decisions for the DeepModeling Community,  except for working with the TOC to establish the overall scope.
+**[Governing Board (GB)](GB/README.md)**  is responsible for the fundamental rules of the DeepModeling community. The Governing Board does not make technical decisions for the DeepModeling Community,  except for working with the TOC to establish the overall scope.
 
 
 ## DeepModeling Community Technical Oversight Committee (TOC)
 
-**Technical Oversight Committee (TOC)** serves as an essential bridge and channel for integrating and sharing information across independent individuals, companies, and organizations. It is the coordination centre for problem-solving in terms of resource mobilization, technical research, and development outlook of the current community and cooperative projects.
+**[Technical Oversight Committee (TOC)](toc/README.md)** serves as an essential bridge and channel for integrating and sharing information across independent individuals, companies, and organizations. It is the coordination centre for problem-solving in terms of resource mobilization, technical research, and development outlook of the current community and cooperative projects.
 
 ### Responsibilities:
 - Provide **supervision and guidance on the projects** in the DeepModeling ecosystem.
@@ -32,7 +32,7 @@ The TOC monthly online meeting is held at 8 pm (UTC+08:00) on the last Friday of
 
 ## Teams:
 
-**Teams** are groups that focus on individual parts of the DeepModeling projects. A team has its reviewer, committer, maintainer, and owns one or more repositories. Maintainers are responsible for team-level decision making.
+**[Teams](team/README.md)** are groups that focus on individual parts of the DeepModeling projects. A team has its reviewer, committer, maintainer, and owns one or more repositories. Maintainers are responsible for team-level decision making.
 
 The Technical Oversight Committee (TOC) is in charge of team creation, retirement, and arbitrates divergence between teams.
 
