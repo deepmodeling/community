@@ -24,7 +24,11 @@ The current list of TOC members is as below.
 
 | Name                        | GitHub                                                  | Email                          | Membership   |
 | :-------------------------- | ------------------------------------------------------- | ------------------------------ | :----------- |
-| Linfeng Zhang               |                                                         |                                | TOC Chairman |
+| Han Wang                    |                                                         |                                | TOC Chairman |
+| Linfeng Zhang               |                                                         |                                | TOC Member   |
+| Mohan Chen                  |                                                         |                                | TOC Member   |
+| Huayi Wei                   |                                                         |                                | TOC Member   |
+
 
 
 ### Emeritus Members
