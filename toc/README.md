@@ -12,7 +12,6 @@
 TOC members consist of representatives from:
 - 4 representatives from Teams（Each team has at most 1 representative)
 - 1 representative from GB
-- 1 representative from DMUGs
 - 1 representative selected from above
 
 ## TOC Meeting
@@ -27,7 +26,6 @@ The current list of TOC members is as below.
 | Han Wang                    |                                                         |                                | TOC Chairman |
 | Linfeng Zhang               |                                                         |                                | TOC Member   |
 | Mohan Chen                  |                                                         |                                | TOC Member   |
-| Huayi Wei                   |                                                         |                                | TOC Member   |
 
 
 
