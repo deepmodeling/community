@@ -6,6 +6,17 @@ This document holds all teams in the DeepModeling projects and defines the gover
 
 The Technical Oversight Committee (TOC) is in charge of team creation, retirement, and arbitrates divergence between teams.
 
+## DeepModeling Teams at present
+
+The current list of Team is as below.
+
+| Team         | Team Leader     | Team Projects               | Maintainers   |
+| :---         | ------------    | --------------              | :-----------  |
+|              |   Han Wang      | DeePMD-kit, DP-GEN, dflow, DPdispatcher   | Jinzhe Zeng, Yuzhi Zhang, XinZijian Liu |
+|              |  Mohan Chen     |   ABACUS, DeePKS            | Daye Zheng, Yixiao Chen   |
+|              |  Zhi Chen       |   DeepFlame                 | Tianhan Zhang, Zhiqin Xv   |
+|              |  Kuang Yu       |   DMFF                      | Yingze Wang    |
+
 ## Roles and Responsibilities
 
 ### Reviewers
