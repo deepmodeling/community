@@ -10,13 +10,10 @@
 
 ## Membership
 TOC members consist of representatives from:
-- 4 representatives from Teams（Each team has at most 1 representative)
+- Team leaders
 - 1 representative from GB
 - 1 representative selected from above
 
-## TOC Meeting
-The TOC monthly online meeting is held at 8 pm (UTC+08:00) on the last Friday of each month. 
-If TOC members cannot attend the monthly meeting for special reasons, they must inform other members in advance.
 
 ## Members
 The current list of TOC members is as below.
