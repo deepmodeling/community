@@ -18,15 +18,15 @@ TOC members consist of representatives from:
 ## Members
 The current list of TOC members is as below.
 
-| Name                        | GitHub                                                  | Email                          | Membership   |
-| :-------------------------- | ------------------------------------------------------- | ------------------------------ | :----------- |
-| Han Wang                    |                                                         |                                | TOC Chairman |
-| Huayi Wei                   |                                                         |                                | TOC Member   |
-| Kuang Yu                    |                                                         |                                | TOC Member   |
-| Linfeng Zhang               |                                                         |                                | TOC Member   |
-| Mohan Chen                  |                                                         |                                | TOC Member   |
-| Xinzijian Liu               |                                                         |                                | TOC Member   |
-| Zhi Chen                    |                                                         |                                | TOC Member   |
+| Name                        | GitHub                                                  | Email                          | Membership    |
+| :-------------------------- | ------------------------------------------------------- | ------------------------------ | :-----------  |
+| Han Wang                    | wanghan-iacpm                                           | han.wang.caep@gmail.com        |TOC Co-Chairman|
+| Linfeng Zhang               | jameswind                                               | zhanglf@dp.tech                |TOC Co-Chairman|
+| Huayi Wei                   | weihuayi                                                | weihuayi@xtu.edu.cn            | TOC Member    |
+| Kuang Yu                    |                                                         |                                | TOC Member    |
+| Mohan Chen                  |                                                         |                                | TOC Member    |
+| Xinzijian Liu               | zjgemi                                                  | liuxzj@dp.tech                 | TOC Member    |
+| Zhi Chen                    | zhixchen                                                | chenzhi@pku.edu.cn             | TOC Member    |
 
 
 
