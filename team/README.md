@@ -15,7 +15,7 @@ The current list of Team is as below.
 | MD           |   Han Wang, Kuang Yu| DeePMD-kit, DP-GEN, DPdispatcher, DMFF   | Jinzhe Zeng, Yuzhi Zhang, Denghui Lu, Fengbo Yuan, Yixiao Chen, Xinyan Wang, Yingze Wang, Jichen Li|
 | DFT          |  Mohan Chen     |   ABACUS, DeePKS            | Daye Zheng, WenFei Li, Qi Ou, Tianqi Zhao, Xingliang Peng, Chun Cai |
 | Combustion   |  Zhi Chen       |   DeepFlame                 | Tianhan Zhang, Zhiqin Xv, Runze Mao   |
-| workflow     |  Zijian Liuxin  |   dflow                      |     |
+| workflow     |  Xinzijian Liu  |   dflow                      |     |
 | FEM          |  Huayi Wei      |   FEALPY                    |                |
 
 ## Roles and Responsibilities
