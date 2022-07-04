@@ -24,7 +24,7 @@ The current list of TOC members is as below.
 | Linfeng Zhang               | jameswind                                               | zhanglf@dp.tech                |TOC Co-Chairman|
 | Huayi Wei                   | weihuayi                                                | weihuayi@xtu.edu.cn            | TOC Member    |
 | Kuang Yu                    | KuangYu                                                 | windwhisper.yu@gmail.com       | TOC Member    |
-| Mohan Chen                  |                                                         |                                | TOC Member    |
+| Mohan Chen                  | mohanchen                                               | mohan.chen.chen.mohan@gmail.com| TOC Member    |
 | Xinzijian Liu               | zjgemi                                                  | liuxzj@dp.tech                 | TOC Member    |
 | Zhi Chen                    | zhixchen                                                | chenzhi@pku.edu.cn             | TOC Member    |
 
