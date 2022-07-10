@@ -14,4 +14,8 @@ EveryOne
 
 ## Result
 
-See also https://github.com/pingcap/community/pull/{pull_request_id} .
+Approved by:
+likefallwind
+wanghan-iapcm
+
+See also https://github.com/deepmodeling/community/pull/8.
