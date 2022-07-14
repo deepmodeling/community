@@ -16,4 +16,4 @@ TOC MEMBERS.
 
 ## Result
 
-See also https://github.com/deepmodeling/community/pull/.
+See also https://github.com/deepmodeling/community/pull/12 
