@@ -16,4 +16,9 @@ TOC MEMBERS.
 
 ## Result
 
+Approved by:
+Kuang Yu
+Han Wang
+Linfeng Zhang
+
 See also https://github.com/deepmodeling/community/pull/12 
