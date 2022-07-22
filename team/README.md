@@ -16,7 +16,7 @@ The current list of Team is as below.
 | DFT          |  Mohan Chen     |   ABACUS, DeePKS            | Daye Zheng, WenFei Li, Qi Ou, Tianqi Zhao, Xingliang Peng, Chun Cai, Yixiao Chen |
 | Combustion   |  Zhi Chen       |   DeepFlame                 | Tianhan Zhang, Zhiqin Xv, Runze Mao   |
 | workflow     |  Xinzijian Liu  |   dflow                      |     |
-| FEM          |  Huayi Wei      |   FEALPY                    |                |
+| FEM          |  Huayi Wei      |   FEALPY                    |  Chunyu Chen, Pengxiang Wang, Dong Wang, Tian Tian, Wei Wang              |
 
 ## Roles and Responsibilities
 
