@@ -13,8 +13,10 @@ Here we propose AIS-Square, a unified platform for users to download/upload the 
 *AI* stands for both *ab initio* and Artificial Intelligence here, thus we use *S*, second power or square, for this pun. 
 On the other hand, *Square* also means this unified platform gathering wisdom and sharing contributions. 
 This repo will be the backend for AIS-Square website, storing items information (README and download links) uploaded by contributors.
-And The website will be updated according to this repo every minutes. 
+And the website will be updated according to this repo in minutes. 
 A standard PR format will be added in this repo, so maintainers can review each item before it appears on the website.
+
+Little spark, deep flame!
 
 ## Deadline
 
