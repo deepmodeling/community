@@ -20,7 +20,7 @@ Little spark, deep flame!
 
 ## Deadline
 
-The vote will be open for at least 6 days unless there is an objection.
+The vote will be open for at least 3 days unless there is an objection.（Because a website depends on this repo is very urgent, so we change the vote time )
 
 ## Scope
 
