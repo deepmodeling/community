@@ -28,3 +28,10 @@ TOC MEMBERS.
 
 ## Result
 
+Approved by:
+
+* jameswind
+* zjgemi
+* zhixchen
+* wanghan-iapcm
+* KuangYu
