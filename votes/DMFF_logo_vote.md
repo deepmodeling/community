@@ -12,3 +12,6 @@ The vote will be open for at least 7 days unless there is an objection.
 
 ## Scope
 TOC MEMBERS and MD TEAM MAINTAINERS
+
+## Result:
+Proved by Kuang Yu
