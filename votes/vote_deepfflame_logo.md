@@ -12,3 +12,8 @@ The vote will be open for at least 7 days unless there is an objection.
 
 ## Scope
 TOC MEMBERS and Combustion TEAM MAINTAINERS
+
+## Result:
+
+Approved by:
+zhixchen
