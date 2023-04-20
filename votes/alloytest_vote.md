@@ -16,3 +16,10 @@ The vote will be open for at least 3 days unless there is an objection.（We cha
 
 TOC MEMBERS.
 
+## Result：
+
+Approved by:
+
+* zjgemi
+* wanghan-iapcm
+* jameswind
