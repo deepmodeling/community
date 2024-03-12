@@ -62,3 +62,9 @@ The vote will be open for at least 6 days unless there is an objection.
 ## Scope
 
 TOC MEMBERS.
+
+## Result:
+
+Approved by:
+Kuang Yu
+Jameswind
