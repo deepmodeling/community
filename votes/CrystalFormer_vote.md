@@ -9,7 +9,7 @@ For more information, see the [original repository](https://github.com/zdcao121/
 
 ## Deadline
 
-The vote will be open for at least 6 days unless there is an objection.
+This vote is rather urgent as the corresponding paper is about to be published. Therefore, once all TOC members agree, we will pass it through voting.
 
 ## Scope
 
