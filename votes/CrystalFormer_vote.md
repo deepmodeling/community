@@ -14,3 +14,13 @@ This vote is rather urgent as the corresponding paper is about to be published. 
 ## Scope
 
 TOC MEMBERS.
+
+## Result:
+
+Approved by:
+* zhixchen
+* jameswind
+* wanghaniapcm
+* mohanchen
+* kuangyu
+* zijiangemi
