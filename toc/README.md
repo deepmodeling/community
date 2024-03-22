@@ -64,9 +64,9 @@ All participants in the DeepModeling community are encouraged to show their agre
 Only active (i.e. non-emeritus) TOC members have binding votes.
 
 ### Approvals
-- Lazy Consensus: A proposal is considered supported by the community as long as nobody objects. This is the default decision-making mechanism in the DeepModeling Community, inspired by Apache Lazy Consensus. 
-In cases of an objection, and no consensus can be found, a majority vote will be held.
-- Majority Vote: A majority vote is compelled in a separate pull request when there is no lazy consensus, and requires a 2/3 majority to pass. If the requirement is not met until the voting deadline, there will be a meeting to discuss the topic, followed by another compulsory majority vote.
+* Lazy Consensus: A proposal is considered supported by the community as long as nobody objects. This is the default decision-making mechanism in the DeepModeling Community, inspired by Apache Lazy Consensus. In cases of an objection, and no consensus can be found, a majority vote will be held. If a participant who makes a vote is in an urgent situation, they can request to change the Lazy Consensus process to a Majority Vote process to accelerate the decision-making.
+
+* Majority Vote: A majority vote is compelled in a separate pull request when there is no lazy consensus or when requested by a participant in an urgent situation. If 2/3 majority is reached before the voting deadline, the proposal will be passed directly. If the requirement is not met until the voting deadline, there will be a meeting to discuss the topic, followed by another compulsory majority vote.
 
 ### Actions
 
@@ -74,3 +74,4 @@ In cases of an objection, and no consensus can be found, a majority vote will be
 | :-------------------- | :------------------------------------- | :------------- | :------------- | :-------------------- |
 | New TOC Member        | When a new TOC member is nominated.    | Lazy Consensus | TOC Members    | 6                     |
 | New Incubator Project | When a project applies for incubation. | Lazy Consensus | TOC Members    | 6                     |
+| Modify governance Rule | When need modify governance rules     | Majority Vote  | TOC Members    | 6                     |
