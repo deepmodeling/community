@@ -32,12 +32,12 @@ Following the project phase standards of the CNCF community, projects in the Dee
 - Example:
   - DeePMD-kit
 ## Assessment of Project Phases
+After a new project joins the community, it needs to be prioritized to determine which team it belongs to. Currently, the community projects include MD, DFT, Combustion, workflow, and FEM teams. Once it's clear which team the project belongs to, the team leader will decide which phase the project belongs to.
 ### New projects entering the Sandbox or Incubating Phase
-Upon joining the community, if a new project enters the Sandbox or Incubating phase, the project leader will independently assess based on the project standards provided by the community and list information to demonstrate the project's reasonable placement in the current phase.
-Simultaneously, the project leader needs to determine the appropriate team for their project based on the team information available in the DeepModeling community. Currently, the community have MD, DFT, Combustion, Workflow, and FEM teams.
+If the team leader determines that the project should belong to the sandbox or incubation phase, then the project will follow the team leader's decision and enter these phases.
 ### New projects entering the Mature Phase
 The Mature Phase is the highest project phase within the community, signifying the community's strong recognition of the project.
-If a new project joins the community at the Mature Phase, the project leader needs to provide an overview of the project from the following aspects:
+If a project joins the community at the mature stage, it needs to be initiated by the team leader or by someone delegated by the team leader to initiate the TOC vote. The TOC will then decide whether the project can be classified as the mature stage. The following are the criteria for determining whether it is at the mature stage. When initiating the vote, the following information should be provided to facilitate the TOC's decision-making:
 - Clearly articulate the project's goals and plans, which should align with the vision of the DeepModeling community.
 - Present the current engineering status of the project. Mature projects should have the following engineering processes in place:
   - Code management and version control process
@@ -47,4 +47,4 @@ If a new project joins the community at the Mature Phase, the project leader nee
   - Testing process
 - Outline the composition of the current developers (developers should come from at least two or more different organizations).
 - Provide an overview of the current user base (Mature projects should have 500 or more external users).
-Based on this information, initiate a vote among the community TOC members, following the "lazy consensus" mechanism.
+The voting rule follows the "lazy consensus" mechanism.
