@@ -20,7 +20,7 @@ The code is the implementation of the DeePDih manuscript: [Efficient and Precise
 
 ## Deadline
 
-The vote will be open for at least 4 days unless there is an objection.
+The vote will be open for at least 6 days unless there is an objection.
 
 ## Scope
 
