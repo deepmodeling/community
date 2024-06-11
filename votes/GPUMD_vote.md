@@ -9,7 +9,7 @@ For more information, see the [original repository](https://github.com/brucefan1
 
 
 ## Deadline
-The vote will be open for at least 5 days unless there is an objection. Once all TOC members agree, we will pass it through voting.
+The vote will be open for at least 6 days unless there is an objection. Once all TOC members agree, we will pass it through voting.
 
 ## Scope
 TOC MEMBERS.
