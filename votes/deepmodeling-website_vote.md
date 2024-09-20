@@ -9,7 +9,7 @@ In order to achieve this goal, the community has recently developed a new offici
 - The information of community projects is fetched from github, and the official website is more closely linked with github, showing more projects in the community.
 - Constructing the back - end for official website administrators, which can flexibly adjust the projects displayed on the official website.
 
-For more information, see the ([test website link](https://https://test.deepmodeling.com/))
+For more information, see the ([test website link](https://test.deepmodeling.com/))
 
 ## Deadline
 
