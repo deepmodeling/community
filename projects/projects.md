@@ -4,7 +4,7 @@ Currently, the DeepModeling community divides projects into three different leve
 
 **Mature projects**: This category is used to describe projects with a higher level of maturity within the community. These projects have already used the infrastructure tools provided by the community to operate, and they are supported by a wealth of use cases for users. 
 
-Examples: DeePMD-kit,ABACUS
+Examples: DeePMD-kit
 
 **Incubating projects**: This category is used to describe projects that can already be used as tools for community users. These projects have partially used the community's infrastructure tools to operate and have accumulated some use cases to support users. The maturity of these projects is lower than that of mature projects.
 
@@ -12,7 +12,7 @@ Examples: DeepFlame
 
 **Sandbox projects**: This category is used to describe early-stage projects. These projects may have only implemented their methods, and they currently lack the support of community infrastructure and are not widely usable by users.
 
-Examples: DeePTB DMFF
+Examples: 
 
 When any project joins the community, its maturity status will be assessed, and corresponding labels will be provided for the project, publicly displaying the project level information within the community.
 
