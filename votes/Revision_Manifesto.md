@@ -21,3 +21,12 @@ If 2/3 majority is reached before the voting deadline, the proposal will be pass
 TOC MEMBERS
 
 ## Result
+
+Approved by:
+
+* mohanchen
+* jameswind
+* zjgemi
+* wanghan-iapcm
+* zhixchen
+
