@@ -8,8 +8,18 @@ For more information, see the [original repository](https://github.com/AnguseZha
 
 ## Deadline
 
-This project is eager to join the community to carry out work related to AI4S agents. Therefore, once all TOC members agree, we will pass it through voting.
+This project is eager to join the community to carry out work related to AI4S agents. Therefore, once 2/3 TOC members agree, we will pass it through voting.
 
 ## Scope
 
 TOC MEMBERS.
+
+## Result
+
+zjgemi
+
+mohanchen
+
+zhixchen
+
+jameswind on be half of RussellHu41
