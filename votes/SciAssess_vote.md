@@ -1,4 +1,3 @@
-
 # A Vote for New Projects: SciAssess
 
 ## Proposal
