@@ -15,3 +15,17 @@ The vote will be open for at least 6 days unless there is an objection.
 ## Scope
 
 TOC MEMBERS.
+
+## Result
+
+Approved by:
+
+zhixchen
+
+KuangYu
+
+mohanchen
+
+wanghan-iapcm
+
+See also https://github.com/deepmodeling/community/pull/54
