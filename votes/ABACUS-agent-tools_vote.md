@@ -13,3 +13,13 @@ This project is eager to join the community to carry out work related to AI4S ag
 ## Scope
 
 TOC MEMBERS.
+
+## Result
+
+zhixchen
+
+zjgemi
+
+mohanchen
+
+RussellHu41 on be half of jameswind
