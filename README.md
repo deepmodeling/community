@@ -9,7 +9,7 @@ The DeepModeling community is a community of such a group of people.
 
 ## How can you contribute?
  If you want to contribute to an existing project in the DeepModeling community, please just do so or contact
-the corresponding developer directly; if you want to open a new project in the DeepModeling community, or if you want the DeepModeling community to help develop your project, just contact contact@deepmodeling.org.
+the corresponding developer directly; if you want to open a new project in the DeepModeling community, or if you want the DeepModeling community to help develop your project, just contact deepmodeling@deepmodeling.com.
 
 If you are a programmer who loves science and is attracted by the future scientific computing platform built by the DeepModeling community, you can contribute not only through new algorithms, but also code development specifications, document writing specifications, community databases, task scheduling, workflow management and other tools.  In addition, you can contribute to code architecture design and high-performance optimization tasks in the DeepModeling community. People in the field of scientific computing will greatly appreciate your expertise and contribution.
 
