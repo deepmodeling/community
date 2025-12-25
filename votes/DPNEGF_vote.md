@@ -15,3 +15,7 @@ The vote will be open for at least 6 days unless there is an objection.
 ## Scope
 
 TOC MEMBERS.
+
+## Results
+
+Approved.
