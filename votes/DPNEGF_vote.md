@@ -6,7 +6,7 @@ DPNEGF is a Python package that integrates the Deep Learning Tight-Binding (DeeP
 
 By using DeePTB-SK or DeePTB-E3—both available within the DeePTB package—DeePTB-NEGF can compute quantum transport properties in open-boundary systems with either environment-corrected Slater-Koster TB Hamiltonian or linear combination of atomic orbitals (LCAO) Kohn-Sham Hamiltonian.
 
-For more information, see the paper [DeePTB-NEGF: arXiv:2411.08800v2](https://arxiv.org/abs/2411.08800v2)
+For more information, see the paper [DPNEGF: arXiv:2411.08800v2](https://arxiv.org/abs/2411.08800v2)
 
 ## Deadline
 
